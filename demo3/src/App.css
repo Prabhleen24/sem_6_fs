@@ -1,0 +1,61 @@
+/* Global */
+body {
+  background: #f3f5f9;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: #333;
+}
+
+/* Header */
+.app-header {
+  background: linear-gradient(135deg, #1f2933, #111827);
+  color: white;
+  padding: 28px 0;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+.app-header h1 {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.app-header p {
+  opacity: 0.85;
+  margin-top: 6px;
+}
+
+/* Card Styling */
+.content-card {
+  background: #ffffff;
+  padding: 28px;
+  border-radius: 14px;
+  box-shadow: 0 10px 28px rgba(0,0,0,0.08);
+  height: 100%;
+}
+
+/* Section titles */
+.section-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 18px;
+  border-left: 5px solid #2563eb;
+  padding-left: 10px;
+}
+
+/* Section blocks */
+.section-block {
+  margin-bottom: 22px;
+}
+
+.section-block h5 {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #666;
+}
